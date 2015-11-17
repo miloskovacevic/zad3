@@ -47,11 +47,34 @@ namespace Zadatak3_Cas.Domain__classes
         {
             return Potrazuje;
         }
+
+        //implementacija interfejsa
+
+        public int Compare(object lhs, object rhs)
+        {
+            if (((Promena)lhs).DatumKnjizenja < ((Promena)rhs).DatumKnjizenja)
+            {
+                return -1;
+            }
+            else if (((Promena)lhs).DatumKnjizenja > ((Promena)rhs).DatumKnjizenja)
+            {
+                return 1;
+            }
+            else
+            { 
+                return 0;
+            }
+        }
+
+        //public int CompateTo(object rhs)
+        //{
+        //    return Compare(this, rhs);
+        //}
+
+        public int CompareTo(object obj)
+        {
+            return Compare(this, obj);
+        }
         #endregion
-
-
-
-
-
     }
 }

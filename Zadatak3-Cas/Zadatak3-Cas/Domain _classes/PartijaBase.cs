@@ -7,7 +7,7 @@ using Zadatak3_Cas.Enum_classes;
 
 namespace Zadatak3_Cas.Domain__classes
 {
-    class PartijaBase
+    public class PartijaBase
     {
         #region Fields
         public string BrojPartije;
@@ -44,7 +44,7 @@ namespace Zadatak3_Cas.Domain__classes
 
        public ArrayList GetPromenePoDatumuKnjizenja(DateTime DatumOd, DateTime DatumDo)
        {
-           ArrayList rezultat = null;
+           ArrayList rezultat = new ArrayList();
            Promene.Sort();
 
            foreach(Promena item in Promene)
@@ -60,7 +60,7 @@ namespace Zadatak3_Cas.Domain__classes
 
        public ArrayList GetPromenePoDatumuValute(DateTime DatumOd, DateTime DatumDo)
        {
-           ArrayList rezultat = null;
+           ArrayList rezultat = new ArrayList();
            Promene.Sort();
            foreach (Promena item in Promene)
            {
@@ -72,8 +72,6 @@ namespace Zadatak3_Cas.Domain__classes
 
            return rezultat;
        }
-
-        
 
        public virtual void Uplata(float iznos, DateTime datumKnjizenja, DateTime datumValute, TValuta valuta)
        {
