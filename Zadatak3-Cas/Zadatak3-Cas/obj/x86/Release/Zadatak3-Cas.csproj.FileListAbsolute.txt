@@ -1,0 +1,17 @@
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\bin\Release\Zadatak3-Cas.exe
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\bin\Release\Zadatak3-Cas.pdb
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\obj\x86\Release\Zadatak3_Cas.Form1.resources
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\obj\x86\Release\Zadatak3_Cas.Properties.Resources.resources
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.csproj.GenerateResource.Cache
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.exe
+C:\Users\mkovacevic13\AppData\Local\Temporary Projects\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.pdb
+\\Sfil0\UserData$\mkovacevic13\Desktop\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.exe
+\\Sfil0\UserData$\mkovacevic13\Desktop\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.pdb
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.exe
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.pdb
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\bin\Release\Zadatak3-Cas.exe
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\bin\Release\Zadatak3-Cas.pdb
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.csprojResolveAssemblyReference.cache
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3_Cas.Form1.resources
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3_Cas.Properties.Resources.resources
+F:\CSharp\zad3\Zadatak3-Cas\Zadatak3-Cas\obj\x86\Release\Zadatak3-Cas.csproj.GenerateResource.Cache
